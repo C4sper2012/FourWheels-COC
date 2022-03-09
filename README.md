@@ -12,6 +12,9 @@
 
 ### Programming Styles
 
+#### Namespace definitions
+- Namespace should be of the type *scoped namespace*
+
 #### Variable naming
 
 Pascal cases are used in the following scenarios:
