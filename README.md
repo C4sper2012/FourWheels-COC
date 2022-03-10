@@ -10,6 +10,12 @@
 - I will do the best I can
 - I will uphold this code for myself and others
 
+### Git Convensions
+
+#### Branch names
+- All branch names should start Capitalized
+
+
 ### Programming Styles
 
 #### Namespace definitions
